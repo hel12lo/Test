@@ -10,10 +10,6 @@
       Pdfsfsf
     </h1>
     <p id="Introduction">
-Je m'appelle <a href="https://www.exemple.com">Visitez Exemple</a>, je suis dfsf au dth.<br>
-Depuis toujours, je suis malhonnête, narcissique et sans morale: je me mets en couple et dès que je trouve mieux (ou pas), je largue la personne avec qui je suis.<br>
-Bien sûr, comme c'est moi qui joue avec les sentiments des gens, ça ne s'appelle ni malhonnête, ni du manque de respect, ni... (ça, c'est pour les autres).<br><br>
-Je suis profondément égoïste et individualiste : seul compte la satisfaction de mon instinct primaire.<br><br>
 Etre avec quelqu'un et être ailleurs en même temps nécessite quelques compétences que j'ai développé : manipulation, dissimulation, séduction.<br><br>
 
     </p>
